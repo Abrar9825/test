@@ -1,0 +1,5 @@
+
+File: C:\Users\Pc\Desktop\ai\1.py
+Summary: The new code added two new functions, `di()` (which prints 10*3), and `sub()` (which prints 10-13), and calls to both.  It also re-defined the `mul()` function (although the functionality is identical).  The old code contained only the `add()` and `mul()` functions and their calls.
+
+
